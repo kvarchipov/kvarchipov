@@ -5,7 +5,7 @@ ___
 
 - [x] QA with 2 months of real-world testing experience
 - [x] 300+ test cases, 10+ bugs, working with API
-- [x] Ackground in banking — I can explain complex things in simple words
+- [x] Background in banking — I can explain complex things in simple words
 - [x] I love numbers, precision, and learning new things
 - [x] I strive to master log analysis and automation in practice
 
